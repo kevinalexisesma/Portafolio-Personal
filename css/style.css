@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    
+}
+
+#container{
+    background: black;
+    height: 590px;
+    margin: 9px;
+}
+
+header{
+    background: blue;
+    height: 25%;
+}
+
+nav{
+    background: red;
+    height: 10%;
+    margin-top: 0px;
+}
+
+.content{
+    background: green;
+    height: 40%;
+}
+
+footer{
+    background: fuchsia;
+    height: 25%;
+}
