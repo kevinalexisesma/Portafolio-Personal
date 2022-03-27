@@ -94,6 +94,22 @@ nav ul li a:hover{
     border-radius: 10px;
 }
 
+.projects{
+    margin: 0px auto;
+}
+
+.projects dl{
+    padding: 20px;
+}
+
+.projects dl dt{
+    font-size: 25px;
+    padding: 20px;
+}
+
+.projects dl dd{
+    padding: 20px;
+}
 
 footer{
     background-image: linear-gradient(to right,#0B323B,#334CA3);
