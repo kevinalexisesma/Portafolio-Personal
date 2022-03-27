@@ -111,6 +111,20 @@ nav ul li a:hover{
     padding: 20px;
 }
 
+.contact{
+    margin: 0px auto;
+    width: 400px;
+    padding: 30px;
+    font-size: 30px;
+}
+.controls{
+    color: black;   
+    padding: 10px;
+    width: 100%;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
 footer{
     background-image: linear-gradient(to right,#0B323B,#334CA3);
     height: 25%;
