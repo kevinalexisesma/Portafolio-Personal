@@ -73,6 +73,20 @@ nav ul li a:hover{
     margin: 13px;
 }
 
+.conocimientos{
+    margin: 0px auto;
+}
+
+.imagenes{
+    list-style: none;
+}
+
+.imagenes div img{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+
 #persona img{
     width: 200px;
     height: 200px;
