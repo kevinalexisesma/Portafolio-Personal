@@ -143,3 +143,20 @@ footer a{
 footer a:hover{
     background: #1B2E72;    
 }
+
+@media screen and (max-width: 700px){
+
+    nav ul li{
+        display: block;
+    }
+
+    .content{
+        background-image: linear-gradient(to right,#0B333B,#3333A3);
+        height: 40%;
+        display: block;
+    }
+
+    .conocimientos{
+        padding: 30px;
+    }
+}
